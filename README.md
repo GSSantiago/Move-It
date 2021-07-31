@@ -31,7 +31,7 @@ somado para avançar para o proximo nível.
 
 As tecnologias utilizadas durante o estudo foram:
 
-- 💠 **React.Js** — Para construção da base da página com HTML, CSS e JavaScript
+- 💠 **React.Js** — Para construção da base da página com HTML, CSS, JavaScript e Typescript
 
 ## :computer: ScreenShot
 
