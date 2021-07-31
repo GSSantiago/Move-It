@@ -20,9 +20,9 @@
 ## :pencil2: Descrição
 Este projeto foi realizado durante a Next Level Week
 
-A Next Level Week, ou NLW, foi um um evento realizado pela Rocketseat no qual durante uma semana foram ministradas aulas sobre desenvolvimento web.
+A Next Level Week, ou NLW, foi um evento realizado pela Rocketseat no qual durante uma semana foram ministradas aulas sobre desenvolvimento web.
 
-Foram cinco dias de produção com o objetivo de construir esta aplicação de pomodoro com exercícios físicos. Durante este processo foi usado a biblioteca ReactJS que engloba Html, Css e JavaScript no front-end.
+Foram cinco dias de produção com o objetivo de construir esta aplicação de pomodoro com exercícios físicos. Durante este processo foi usado a biblioteca ReactJS que engloba Html, Css, JavaScript e Typescript.
 
 O objetivo da aplicação é de que, após 25 minutos de concentração em uma unica tarefa (técnica do Pomodoro), o usuário deverá então completar um desafio aleatório, e caso conclua, receberá experiência que será 
 somado para avançar para o proximo nível.
@@ -31,7 +31,7 @@ somado para avançar para o proximo nível.
 
 As tecnologias utilizadas durante o estudo foram:
 
-- 💠 **React.Js** — Para construção da base da página com HTML, CSS, JavaScript e Typescript
+- 💠 **React.Js** — Para construção da página com HTML, CSS, JavaScript e Typescript
 
 ## :computer: ScreenShot
 
